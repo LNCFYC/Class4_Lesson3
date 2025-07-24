@@ -1,0 +1,171 @@
+==================================================
+         IKEA FURNITURE VALIDATION REPORT         
+==================================================
+
+ITEM 1: BILLY BOOKCASE
+  Product ID: 002.638.50
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Bookcase, $79.99
+  Dimensions: 202.0×80.0×28.0cm
+  Weight: 25.3kg, Assembly: 0:45:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 2: POÄNG ARMCHAIR
+  Product ID: 093.185.08
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Chair, $129.00
+  Dimensions: 101.0×68.0×80.0cm
+  Weight: 12.8kg, Assembly: 0:30:00
+  Stock: ⚠️ Out of Stock
+--------------------------------------------------
+ITEM 3: MALM BED
+  Product ID: 290.145.08
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Bed, $199.00
+  Dimensions: 50.0×162.0×208.0cm
+  Weight: 45.2kg, Assembly: 1:30:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 4: LACK SIDE TABLE
+  Product ID: 102.513.06
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Table, $9.99
+  Dimensions: 45.0×55.0×55.0cm
+  Weight: 3.5kg, Assembly: 0:15:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 5: KALLAX SHELF UNIT
+  Product ID: 502.758.87
+  Overall Status: ❌ INVALID
+  Validation Errors:
+    - Price must be positive
+--------------------------------------------------
+ITEM 6: HEMNES DRESSER
+  Product ID: 103.467.08
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Storage, $229.00
+  Dimensions: 89.0×98.0×48.0cm
+  Weight: 38.7kg, Assembly: 2:00:00
+  Stock: ⚠️ Out of Stock
+--------------------------------------------------
+ITEM 7: BEKANT DESK
+  Product ID: 502.067.72
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Desk, $179.00
+  Dimensions: 72.0×160.0×80.0cm
+  Weight: 32.4kg, Assembly: 1:20:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 8: STRANDMON WING CHAIR
+  Product ID: 093.185.19
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Armchair, $249.00
+  Dimensions: 101.0×88.0×90.0cm
+  Weight: 15.6kg, Assembly: 1:00:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 9: BRIMNES WARDROBE
+  Product ID: 303.467.08
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Wardrobe, $149.00
+  Dimensions: 191.0×80.0×50.0cm
+  Weight: 42.3kg, Assembly: 2:00:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 10: NORDLI BED
+  Product ID: 590.145.08
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Bed, $399.00
+  Dimensions: 65.0×183.0×208.0cm
+  Weight: 68.9kg, Assembly: 2:30:00
+  Stock: ⚠️ Out of Stock
+--------------------------------------------------
+ITEM 11: FRIHETEN SOFA
+  Product ID: 293.186.08
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Sofa, $499.00
+  Dimensions: 83.0×237.0×98.0cm
+  Weight: 87.5kg, Assembly: 3:00:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 12: MICKE DESK
+  Product ID: 402.067.72
+  Overall Status: ❌ INVALID
+  Validation Errors:
+    - Weight must be less than or equal to 100kg
+--------------------------------------------------
+ITEM 13: KIVIK SOFA
+  Product ID: 293.486.08
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Sofa, $599.00
+  Dimensions: 83.0×218.0×98.0cm
+  Weight: 92.3kg, Assembly: 3:30:00
+  Stock: ⚠️ Out of Stock
+--------------------------------------------------
+ITEM 14: TARVA BED
+  Product ID: 290.145.09
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Bed, $179.00
+  Dimensions: 50.0×162.0×208.0cm
+  Weight: 39.8kg, Assembly: 1:30:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 15: EKET CABINET
+  Product ID: 103.467.09
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Storage, $45.00
+  Dimensions: 35.0×35.0×35.0cm
+  Weight: 7.2kg, Assembly: 0:30:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 16: VITTSJÖ SHELF
+  Product ID: 502.758.88
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Shelving, $49.99
+  Dimensions: 120.0×60.0×20.0cm
+  Weight: 12.4kg, Assembly: 0:45:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 17: HOL TABLE
+  Product ID: 102.513.07
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Table, $29.99
+  Dimensions: 45.0×55.0×55.0cm
+  Weight: 4.1kg, Assembly: 0:20:00
+  Stock: ⚠️ Out of Stock
+--------------------------------------------------
+ITEM 18: FLINTAN CHAIR
+  Product ID: 093.185.09
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Office Chair, $49.99
+  Dimensions: 82.0×48.0×52.0cm
+  Weight: 8.7kg, Assembly: 0:30:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 19: SONGESAND DRESSER
+  Product ID: 103.467.10
+  Overall Status: ✅ VALID (All checks passed)
+  Details: Storage, $199.00
+  Dimensions: 89.0×98.0×48.0cm
+  Weight: 36.2kg, Assembly: 2:00:00
+  Stock: ✅ In Stock
+--------------------------------------------------
+ITEM 20: BRUSALI TV STAND
+  Product ID: 303.467.09
+  Overall Status: ✅ VALID (All checks passed)
+  Details: TV Furniture, $129.00
+  Dimensions: 45.0×120.0×40.0cm
+  Weight: 22.5kg, Assembly: 1:00:00
+  Stock: ⚠️ Out of Stock
+--------------------------------------------------
+
+VALIDATION SUMMARY:
+Total Items Processed: 20
+✅ Valid Items: 18
+❌ Invalid Items: 2
+
+INVALID ITEMS DETAILS:
+1. KALLAX Shelf Unit (ID: 502.758.87)
+   - Price must be positive
+2. MICKE Desk (ID: 402.067.72)
+   - Weight must be less than or equal to 100kg
